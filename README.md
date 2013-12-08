@@ -1,4 +1,0 @@
-BMI-KalkulatorGUI
-=================
-
-BMI kalkulator 
