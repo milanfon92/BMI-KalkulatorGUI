@@ -19,6 +19,7 @@ public class BMIKalkulator {
 	
       String odredi(double bmi){
     	  //dobijanje kategorije kako bi uporedili gde pripadamo
+          //dal ovo sranje radi
 	  String kategorija ="";
 	  if (bmi<= 15){
 		  kategorija = "anoreksicnih";
